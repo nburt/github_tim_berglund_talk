@@ -19,6 +19,3 @@ feature2 text 3
 
 
 What a bad commit
-Actually, this one is worse- changed it!
-
-but i don't want this (after push)
