@@ -12,3 +12,5 @@ and another, better change
 
 This is the change I'm making on master
 Some feature branch stuff
+
+new feature2 branch
