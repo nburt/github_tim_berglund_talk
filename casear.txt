@@ -16,3 +16,6 @@ Some feature branch stuff
 new feature2 branch
 feature 2 text 2
 feature2 text 3
+
+
+What a bad commit
